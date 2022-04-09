@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Digital Resume</title>
+
+.header {font-family:Comic Sans MS;
+font size:100%
+background-color: greenyellow
+}
+.body {
+    font-family:Poppins, sans-serif;
+    background color: blue
+
+}
